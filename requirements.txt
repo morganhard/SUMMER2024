@@ -1,0 +1,12 @@
+streamlit
+streamlit_mic_recorder
+langchain_experimental
+torch
+transformers
+librosa
+pandas
+langchain
+langchain_community
+requests
+google.generativeai
+httpx
